@@ -1,0 +1,10 @@
+{
+    "API_KEY": "",
+    "SECRET_KEY": "",
+    "ffmpeg_path": "D:\\ffmpeg-n7.0-latest-win64-gpl-7.0\\ffmpeg-n7.0-latest-win64-gpl-7.0\\bin",
+    "server_ip": "127.0.0.1",
+    "port": 3000,
+    "count": "5",
+    "text_for_summarization": "阅读文字内容，主题分段落，不要删减任何的文字内容，然后用拍摄脚本作为笔记总结告诉我怎么按文字拍摄短视频",
+    "user_urls_input": "https://www.douyin.com/user/MS4wLjABAAAAce8bCIzJ8fVnuE7lz7ztFyLwE9BybLjYitpyGxEQIeUKn_V6Nbf54KaFjlp6MR7F?vid=7392154740458556711 https://www.douyin.com/user/MS4wLjABAAAAuk35D9ehoVrdIzgyjbJjeK24g-kCBFKw5ruRKeCAgQ2diBAX2Z2ae_OnirXA36sn?vid=7389256123511049498"
+}
